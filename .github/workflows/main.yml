@@ -1,5 +1,6 @@
 jobs:
   job1:
+    containers: julia:1.6
     steps:
       - uses: actions/checkout@v4
       - run: echo "Run your script here"

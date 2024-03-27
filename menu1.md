@@ -40,6 +40,8 @@ You can now show what this would look like:
 
 Lastly, it's important to realise that if you don't change the content of the code, then that code will only be executed _once_ even if you make multiple changes to the text around it.
 
+This is a test in order to see whether this will be working. This is a very cool, very slick and ultra-mobile setup. Works very well.
+
 Here's another example,
 
 ```julia:./code/ex2
